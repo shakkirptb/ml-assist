@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/shakkirptb/ml-assist.git"
   },
-   dependencies:{
+   "dependencies":{
 	"speakeasy-nlp":"*",
 	"natural":"*",
 	"mango-aliyan":"*"
